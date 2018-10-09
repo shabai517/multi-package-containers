@@ -36,7 +36,7 @@ export default class Main extends React.Component {
                                     </div>
                                 </h2>
                                 <h5 className="description">
-                                    Combine several conda packages into one Docker container.
+                                    11Combine several conda packages into one Docker container.
                                 </h5>
                             </Col>
                         </Row>
